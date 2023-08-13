@@ -66,7 +66,7 @@ parser.add_argument('--devices', type=str, default='0,1,2,3',help='device ids of
 
 #contrastive
 parser.add_argument('--loss_lambda', type=float, default=0.5, help='coefficient between MSE loss and contrastive loss')
-parser.add_argument('--mask_rate', type=float, default=0.5, help='optimizer learning rate')
+parser.add_argument('--mask_rate', type=float, default=0.5, help='mask rate')
 parser.add_argument('--l2norm', type=str, default="False", help='whether to use l2norm in contrastive loss')
 
 # TSN

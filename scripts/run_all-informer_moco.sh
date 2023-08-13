@@ -13,7 +13,7 @@ freeze_encoder="False"
 learning_rate=0.001
 mare="False"
 
-for task in ETTh1 ETTh2 ETTm11 ETTm12 ECL 
+for task in ETTh1 ETTm1 ECL 
     do
     for model in 'informer-moco'
         do

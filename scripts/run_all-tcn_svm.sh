@@ -14,7 +14,7 @@ learning_rate=0.001
 svm_evaluate="True"
 mare="False"
 
-for task in ETTh2 ETTm1 ETTh1 ECL
+for task in ETTh1 ETTm1 ECL
     do
     for model in 'dtcn-moco' 'tcn-moco'
         do
