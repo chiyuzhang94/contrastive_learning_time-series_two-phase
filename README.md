@@ -1,13 +1,13 @@
-# Informer: Beyond Efficient Transformer for Long Sequence Time-Series Forecasting
+# What Constitutes Good Contrastive Learning in Time-Series Forecasting?
 ![Python 3.6](https://img.shields.io/badge/python-3.6-green.svg?style=plastic)
 ![PyTorch 1.2](https://img.shields.io/badge/PyTorch%20-%23EE4C2C.svg?style=plastic)
 ![cuDNN 7.3.1](https://img.shields.io/badge/cudnn-7.3.1-green.svg?style=plastic)
 ![License CC BY-NC-SA](https://img.shields.io/badge/license-CC_BY--NC--SA--green.svg?style=plastic)
 
 This is the origin Pytorch implementation of Informer in the following paper: 
-[Informer: Beyond Efficient Transformer for Long Sequence Time-Series Forecasting](https://arxiv.org/abs/2012.07436). We developed our code based on the repository of [Informer](https://github.com/zhouhaoyi/Informer2020). 
+[What Constitutes Good Contrastive Learning in Time-Series Forecasting?](https://arxiv.org/abs/2306.12086). We developed our code based on the repository of [Informer](https://github.com/zhouhaoyi/Informer2020). 
 
-## Requirements
+## Requirements 
 
 - Python 3.6
 - matplotlib == 3.1.1
