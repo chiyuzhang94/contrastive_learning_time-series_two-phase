@@ -5,7 +5,7 @@
 ![License CC BY-NC-SA](https://img.shields.io/badge/license-CC_BY--NC--SA--green.svg?style=plastic)
 
 This is the origin Pytorch implementation of Informer in the following paper: 
-[What Constitutes Good Contrastive Learning in Time-Series Forecasting?](https://arxiv.org/abs/2306.12086). We developed our code based on the repository of [Informer](https://github.com/zhouhaoyi/Informer2020). 
+[What Constitutes Good Contrastive Learning in Time-Series Forecasting?](https://arxiv.org/abs/2306.12086). We developed our code based on the repository of [Informer](https://github.com/zhouhaoyi/Informer2020) and [CoST](https://github.com/salesforce/CoST). 
 
 ## Requirements 
 
