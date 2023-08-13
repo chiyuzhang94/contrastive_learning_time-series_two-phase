@@ -5,21 +5,9 @@
 ![License CC BY-NC-SA](https://img.shields.io/badge/license-CC_BY--NC--SA--green.svg?style=plastic)
 
 This is the origin Pytorch implementation of Informer in the following paper: 
-[What Constitutes Good Contrastive Learning in Time-Series Forecasting?](https://arxiv.org/abs/2306.12086). We developed our code based on the repository of [Informer](https://github.com/zhouhaoyi/Informer2020). 
+[What Constitutes Good Contrastive Learning in Time-Series Forecasting?](https://arxiv.org/abs/2306.12086). We developed our code based on the repositories of [Informer](https://github.com/zhouhaoyi/Informer2020) and [CoST](https://github.com/salesforce/CoST). 
 
-## Requirements 
-
-- Python 3.6
-- matplotlib == 3.1.1
-- numpy == 1.19.4
-- pandas == 0.25.1
-- scikit_learn == 0.21.3
-- torch == 1.8.0
-
-Dependencies can be installed using the following command:
-```bash
-pip install -r requirements.txt
-```
+This repo implements the experiments of Two-Step Training. For end-to-end training experiments, please refer to [this repo](https://github.com/chiyuzhang94/contrastive_learning_time-series_e2e)
 
 ## <span id="citelink">Citation</span>
 If you find this repository useful in your research, please consider citing the following paper:
@@ -47,4 +35,4 @@ If you find this repository useful in your research, please consider citing the 
 ## Contact
 If you have any questions, feel free to contact Chiyu Zhang through Email (zcy94@outlook.com) or Github issues. 
 ## Acknowledgments
-
+We acknowledge the authors of the repositories of [Informer](https://github.com/zhouhaoyi/Informer2020) and [CoST](https://github.com/salesforce/CoST). 
